@@ -32,9 +32,19 @@ Computer Engineering student with a strong passion for web development. Continuo
 </p>
 
 ## Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skinnyrafff&show_icons=true&theme=radical&locale=en&layout=compact" alt="skinnyrafff" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skinnyrafff&show_icons=true&theme=radical&locale=en" alt="skinnyrafff" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=skinnyrafff&show_icons=true&theme=radical&locale=en&layout=compact" 
+    width="300" height="180"
+    alt="Top Langs" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=skinnyrafff&show_icons=true&theme=radical&locale=en" 
+    width="395" height="180"
+    alt="GitHub Stats" 
+  />
+</div>
+
+
+
+
