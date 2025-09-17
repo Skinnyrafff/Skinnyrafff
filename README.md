@@ -31,19 +31,6 @@ Computer Engineering student with a strong passion for web development. Continuo
 <a href="FIGMA" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
-## Stats
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=skinnyrafff&show_icons=true&theme=radical&locale=en&layout=compact" 
-    width="300" height="180"
-    alt="Top Langs" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=skinnyrafff&show_icons=true&theme=radical&locale=en" 
-    width="395" height="180"
-    alt="GitHub Stats" 
-  />
-</div>
 
 
 
