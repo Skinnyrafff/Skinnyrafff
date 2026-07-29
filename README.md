@@ -2,10 +2,9 @@
 
 Computer Engineering student with a strong passion for web development. Continuously looking for opportunities to grow, learn, and tackle new challenges. Recognized as a responsible and proactive individual, I thrive in collaborative environments and enjoy contributing to the success of projects.
 
-- 🌐 Currently working at [Elite Automotora](https://www.eliteautomotora.cl/)
+- 🌐 Currently working at [Netaxion](https://www.netaxion.cl/)
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/Skinnyrafff?tab=repositories)
 - 📫 Contact me: **rfigueroaa@utem.cl**
-- 💬 Ask me about **React, Typescript, C**
 - 📄 Know more about my experiences [here](https://www.linkedin.com/in/rafael-alfredo-figueroa-araneda-420336313/)
 
 ## Connect with me
